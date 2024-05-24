@@ -1,1 +1,2 @@
-# Pet-health-management-Using-SQl-
+# Pet-health-management-Using-SQl
+A Windows app was developed using VS Code, JavaScript, and SQL Server to create a pet clinic management platform. It offers appointment booking, treatment reservations, pet profile management, and health tracking to enhance pet care. The project focuses on user-friendliness and comprehensive pet care solutions. It uses all CRUD operations, triggers, and stored procedures.
